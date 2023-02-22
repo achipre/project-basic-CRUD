@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HarlandLohora/1836-CRUD_JS_Async.git"
+    "url": "git+https://github.com/achipre/project-basic-CRUD"
   },
   "keywords": [
     "Alura"
@@ -16,7 +16,7 @@
   "author": "Harland Lohora",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HarlandLohora/1836-CRUD_JS_Async/issues"
+    "url": "https://github.com/achipre/project-basic-CRUD/issues"
   },
-  "homepage": "https://github.com/HarlandLohora/1836-CRUD_JS_Async#readme"
+  "homepage": "https://github.com/achipre/project-basic-CRUD#readme"
 }
